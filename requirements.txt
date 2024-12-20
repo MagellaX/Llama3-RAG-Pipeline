@@ -1,0 +1,6 @@
+langchain
+llama_parse
+langchain_community
+fastembed
+qdrant-client
+nltk
